@@ -20,7 +20,7 @@ import uuid
 import re
 warnings.filterwarnings("ignore")
 
-#st.set_option('deprecation.showfileUploaderEncoding', False)
+st.set_option('deprecation.showfileUploaderEncoding', False)
 #  %%
 st.write("""
 # Average Balance Forecast""")
