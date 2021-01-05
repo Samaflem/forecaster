@@ -1,13 +1,5 @@
 xlrd >= 1.0.0
 streamlit
-io
 numpy
 pandas
 statsmodels
-warnings
-base64
-os
-json
-pickle
-uuid
-re
